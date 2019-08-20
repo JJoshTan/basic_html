@@ -1,0 +1,17 @@
+.gallery {
+    width: 48%;
+    display: inline-block;
+}
+
+.gallery>img {
+    width: 100%
+}
+
+.gallery>div {
+    width: 48%;
+    display: inline-block; 
+    font-size: 2em;
+    font-family: 'Amatic SC', cursive;
+    font-weight: bold
+}
+
